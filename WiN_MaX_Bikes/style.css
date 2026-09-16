@@ -1351,6 +1351,10 @@ img {
     color: #1877f2;
     background: rgba(24,119,242,0.1);
 }
+.youtube-icon {
+    color: #f40000;
+    background: rgba(37,211,102,0.1);
+}
 
 .contact-card div:nth-child(2) {
     display: flex;
