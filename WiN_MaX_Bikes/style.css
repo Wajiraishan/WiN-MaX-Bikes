@@ -858,15 +858,6 @@ img {
         ),
         #151515;
 }
-.classic-bg {
-    background: 
-        linear-gradient(
-            circle at center,
-            rgba(100,100,100,0.15),
-            transparent 60%
-        ),
-        #151515;
-}
 
 .scooter-bg {
     background:
